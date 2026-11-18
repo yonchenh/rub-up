@@ -3,7 +3,7 @@
   "short_name": "RUB-UP",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f3ebe0",
+  "background_color": "#ece3d4",
   "theme_color": "#3e2a1e",
   "icons": [
     {
